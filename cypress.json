@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://pro.jaimystaging.be/fr",
+  "ignoreTestFiles": "**/examples/*",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "env": {
+    "MAILOSAUR_API_KEY": "Ma4yIbzEm5dMeKM"
+  },
+  "projectId": "bg54m8",
+  "chromeWebSecurity": false
+}

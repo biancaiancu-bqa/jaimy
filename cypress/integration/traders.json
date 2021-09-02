@@ -1,0 +1,202 @@
+{
+    "newTrader": {
+        "FirstName": "Bianca",
+        "LastName": "Iancu",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Email": "dynamic",
+        "Password": "abcd123456@",
+        "NewPassword": "Qwerty123@",
+        "Trade": [
+            {
+                "Category": "Chauffage",
+                "Subcategories": [
+                    {
+                        "Category": "Chaudière",
+                        "Subcategories": [
+                            {
+                                "Category": "Installation",
+                                "Subcategories": [
+                                    "Bois",
+                                    "Gaz"
+                                ]
+                            },
+                            "Remplacement (Nouvelle chaudière)"
+                        ]
+                    },
+                    "Chauffe-Eau"
+                ]
+            },
+            "Débouchage",
+            "Efficacité Energétique"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Jaimy automation",
+        "Street": "Avenue",
+        "Number": "12",
+        "PostCode": "1200",
+        "City": "Bruxelles"
+    },
+    "localTrader": {
+        "FirstName": "Local",
+        "LastName": "Bianca",
+        "Email": "localTrader@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Chauffage",
+            "Débouchage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Jaimy automation",
+        "Street": "Avenue",
+        "Number": "15",
+        "PostCode": "1500",
+        "City": "Bruxelles"
+    },
+    "DarkVader": {
+        "FirstName": "Dark",
+        "LastName": "Vader",
+        "Email": "darkvadertrader@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Chauffage",
+            "Débouchage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Dark Vader automation",
+        "Street": "Avenue Henri Jaspar",
+        "Number": "88",
+        "PostCode": "1060",
+        "City": "Saint-Gilles"
+    },
+    "IronMan": {
+        "FirstName": "Iron",
+        "LastName": "Man",
+        "Email": "ironman2@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Efficacité Energétique",
+            "Électricité"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Iron Man automation",
+        "Street": "Avenue Henri Jaspar",
+        "Number": "88",
+        "PostCode": "1060",
+        "City": "Saint-Gilles"
+    },
+    "CaptainAmerica": {
+        "FirstName": "Captain",
+        "LastName": "America",
+        "Email": "captainamerica333332@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Isolation",
+            "Maçonnerie"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Captain America automation",
+        "Street": "Rue de l'Ecuyer",
+        "Number": "23",
+        "PostCode": "1000",
+        "City": "Saint-Bruxelles"
+    },
+    "BlackWidow": {
+        "FirstName": "Black",
+        "LastName": "Widow",
+        "Email": "blackwidow2@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Peinture et Décoration",
+            "Plafonnage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Black Window automation",
+        "Street": "Boulevard Baudouin",
+        "Number": "27",
+        "PostCode": "1000",
+        "City": "Bruxelles"
+    },
+    "SpiderMan": {
+        "FirstName": "Spider",
+        "LastName": "Man",
+        "Email": "spiderman2@vwd37fqh.mailosaur.net",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Plomberie",
+            "Rénovation"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Spider Man automation",
+        "Street": "Place Saint-Josse",
+        "Number": "14",
+        "PostCode": "1210",
+        "City": "Saint-Josse-ten-Noode"
+    },
+    "CompensationTrader": {
+        "FirstName": "Dark",
+        "LastName": "Vader",
+        "Email": "dynamic",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Chauffage",
+            "Débouchage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Dark Vader automation",
+        "Street": "Avenue Henri Jaspar",
+        "Number": "88",
+        "PostCode": "1060",
+        "City": "Saint-Gilles"
+    },
+    "NegativeInvoiceTrader": {
+        "FirstName": "Dark",
+        "LastName": "Vader",
+        "Email": "dynamic",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Chauffage",
+            "Débouchage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Dark Vader automation",
+        "Street": "Avenue Henri Jaspar",
+        "Number": "88",
+        "PostCode": "1060",
+        "City": "Saint-Gilles"
+    },
+    "MarketingTrader": {
+        "FirstName": "Dark",
+        "LastName": "Vader",
+        "Email": "dynamic",
+        "PhonePrefix": "BE",
+        "Phone": "11111111",
+        "Password": "Qwerty123@",
+        "Trade": [
+            "Chauffage",
+            "Débouchage"
+        ],
+        "VAT": "0447883840",
+        "CompanyName": "Dark Vader automation",
+        "Street": "Avenue Henri Jaspar",
+        "Number": "88",
+        "PostCode": "1060",
+        "City": "Saint-Gilles"
+    }
+}

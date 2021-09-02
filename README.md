@@ -1,2 +1,2 @@
-# jaimy
-Jaimy automation repo, 2021.
+# jaimy-automation
+E2E cypress testing.
